@@ -29,6 +29,9 @@
 <a href="https://blog.naver.com/spaceodddity">
   <img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
 </a>
+<a href="http://suzzang2.kro.kr/">
+  <img src="https://img.shields.io/badge/HOMEPAGE-21610B?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white"/>
+</a>
 <br><br>
 
 <h3>우주를 이롭게!</h3>
