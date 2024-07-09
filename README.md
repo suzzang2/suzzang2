@@ -59,7 +59,7 @@ I can use...
 <br>
 <h3>General Languages</h3>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logo=C++&logoColor=white"/>
+<img src="https://camo.githubusercontent.com/69ab3d5d4f1a013fb242d8ab82efc118146fcb72791937a0495f05c829d0f9b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"/>
 <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <br>
 <h3>Other Tools</h3>
