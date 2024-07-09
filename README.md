@@ -31,7 +31,7 @@
 </a>
 <br><br>
 
-<h3>우주에 이로운 서비스를 만듭니다!</h3>
+<h3>우주를 이롭게!</h3>
 
   ---
 ![Suzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzzang2&show_icons=true&theme=transparent&title_color=A28047&text_color=352E04&icon_color=89877F&bg_color=F1EFE2) ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=suzzang2)
