@@ -7,7 +7,7 @@
   ---
   About Me...
   ---
-  |  |  |
+  | WHEN | WHAT |
   | ------------ | ------------- |
   | 2022.03 - | Business Administration at Chung-Ang University |
   | 2023.03 - | Computer Science & Engineering at Chung-ang University |
