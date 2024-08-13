@@ -1,10 +1,10 @@
 <div align="center">
   <h1>🦎 Welcome! 🦎</h1>
   
-  ![hatsune-miku-anime](https://github.com/suzzang2/suzzang2/assets/134358849/a0b5e19c-18f6-461f-934a-ba450d91c977)
+<img src='https://github.com/suzzang2/suzzang2/assets/134358849/a0b5e19c-18f6-461f-934a-ba450d91c977' width='200px'>
 
 
-  ---
+
   About Me...
   ---
   | WHEN | WHAT |
@@ -36,7 +36,6 @@
 
 <h3>우주를 이롭게!</h3>
 
----
 Participated in...
 ---
 |Period|Project|What|Role|etc
@@ -44,7 +43,6 @@ Participated in...
 2024.04 - 2024.05 | [JJapRa](https://github.com/CAU-SE-12king/JJAPRA_Front) | 이슈 트래킹 시스템 | Front-end| 'Jira'를 오마주
 | 2024.07 - 2024.08 | [바로지금(BaroNow)](https://github.com/wo0gA/woogafront) | 중고 운동용품 대여 플랫폼 | Front-end | 2024 LIKELION Hackathon |
 
----
 I can use...
 ---
 <h3>WEB</h3>
@@ -70,7 +68,6 @@ I can use...
 <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=SLACK&logoColor=white"/>
 <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=DISCORD&logoColor=white"/>
 
----
 Interested in...
 ---
 <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=SWIFT&logoColor=white"/>
