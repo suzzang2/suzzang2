@@ -36,11 +36,13 @@
 
 <h3>우주를 이롭게!</h3>
 
-  ---
-![Suzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzzang2&show_icons=true&theme=transparent&title_color=A28047&text_color=352E04&icon_color=89877F&bg_color=F1EFE2) ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=suzzang2)
-
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb3129256)](https://solved.ac/sb3129256)
-
+---
+Participated in...
+---
+|Period|Project|What|Role|etc
+|---|---|---|---|---|
+2024.04 - 2024.05 | [JJapRa](https://github.com/CAU-SE-12king/JJAPRA_Front) | 이슈 트래킹 시스템 | Front-end| 'Jira'를 오마주
+| 2024.07 - 2024.08 | [바로지금(BaroNow)](https://github.com/wo0gA/woogafront) | 중고 운동용품 대여 플랫폼 | Front-end | 2024 LIKELION Hackathon |
 
 ---
 I can use...
@@ -83,3 +85,8 @@ Interested in...
 <br><br>
 <img src="https://img.shields.io/badge/OPEN AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
+
+  ---
+![Suzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzzang2&show_icons=true&theme=transparent&title_color=A28047&text_color=352E04&icon_color=89877F&bg_color=F1EFE2) ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=suzzang2)
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb3129256)](https://solved.ac/sb3129256)
