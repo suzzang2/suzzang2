@@ -40,7 +40,7 @@ Participated in...
 ---
 |Period|Project|What|Role|etc
 |---|---|---|---|---|
-2024.04 - 2024.05 | <img src='https://github.com/user-attachments/assets/34d75681-973d-4fc0-9997-335d4cebaf04' width='40px'> [JJapRa](https://github.com/CAU-SE-12king/JJAPRA_Front) | 이슈 트래킹 시스템 | Front-end| 'Jira'를 오마주
+2024.04 - 2024.05 | <img src='https://github.com/user-attachments/assets/34d75681-973d-4fc0-9997-335d4cebaf04' width='40px'> [JJapRa](https://github.com/CAU-SE-12king/JJAPRA_Front) | 이슈 트래킹 시스템 | Front-end| 'Jira'를 참고
 | 2024.07 - 2024.08 |<img src='https://github.com/user-attachments/assets/ed192116-54e5-422a-9ea2-5292f01f2e90' width='30px'> [바로지금(BaroNow)](https://github.com/wo0gA/woogafront) | 중고 운동용품 대여 플랫폼 | Front-end | 2024 LIKELION Hackathon |
 
 I can use...
