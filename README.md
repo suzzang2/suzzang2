@@ -37,12 +37,12 @@
 
   | WHEN | WHAT |
   | ------------ | ------------- |
-  | 2022.03 - | Business Administration at Chung-Ang University |
-  | 2023.03 - | Computer Science & Engineering at Chung-ang University |
+  | 2022.03 - now| Business Administration at Chung-Ang University |
+  | 2023.03 - now| Computer Science & Engineering at Chung-ang University |
   | 2022.03 - 2023.02 | General Affairs team of the 11st Student Council of Business Administration CAU |
   | 2023.03 - 2024.02 | General Affairs team of the 12st Student Council of Business Administration CAU |
-  | 2024.03 - | Front-End in LIKELION-CAU 12th; Web&App devloping club of CAU |
-  | 2024.03 - | CUAI 7th; AI study association of CAU |
+  | 2024.03 - 2025.01| Front-End in LIKELION-CAU 12th; Web&App devloping club of CAU |
+  | 2024.03 - 2025.01 | CUAI 7th; AI study association of CAU |
 
   <br/>
   
@@ -52,8 +52,11 @@
 
 |Period|Project|What|Role|etc
 |---|---|---|---|---|
-2024.04 - 2024.05 | <img src='https://github.com/user-attachments/assets/34d75681-973d-4fc0-9997-335d4cebaf04' width='40px'> [JJapRa](https://github.com/CAU-SE-12king/JJAPRA_Front) | 이슈 트래킹 시스템 | Front-end| 'Jira'를 참고
-| 2024.07 - 2024.08 |<img src='https://github.com/user-attachments/assets/ed192116-54e5-422a-9ea2-5292f01f2e90' width='30px'> [바로지금(BaroNow)](https://github.com/wo0gA/woogafront) | 중고 운동용품 대여 플랫폼 | Front-end | 2024 LIKELION Hackathon |
+| 2024.10 - 2024.11 | [약속어때](https://github.com/wo0gA/woogafront) | 약속 관리 어플 | UI Develop | '모바일 앱 개발' 과목 프로젝트 |
+| 2024.10 - 2024.11 | <img src='https://github.com/user-attachments/assets/1167c0b9-229b-4590-9406-3da3f9932f16' width='30px'> [눈사람 공작소](https://github.com/wo0gA/woogafront) | 눈사람 커스터마이징 모바일 서비스 | UI Develop | 2024 LIKELION 중커톤 |
+| 2024.07 - 2024.08 |<img src='https://github.com/user-attachments/assets/ed192116-54e5-422a-9ea2-5292f01f2e90' width='30px'> [바로(barrow)지금](https://github.com/wo0gA/woogafront) | 중고 운동용품 대여 플랫폼 | Front-end | 2024 LIKELION Hackathon |
+| 2024.04 - 2024.05 | <img src='https://github.com/user-attachments/assets/34d75681-973d-4fc0-9997-335d4cebaf04' width='40px'> [JJapRa](https://github.com/CAU-SE-12king/JJAPRA_Front) | 이슈 트래킹 시스템 | Front-end| 'Jira'를 참고 |
+
 <br/>
 
 <h3>I can use...</h3>
