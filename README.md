@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black"/>
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TYPESCRIPT&logoColor=white"/>
 <br>
-**Data Analysis / Artificial Intelligence** <br/>
+**Data Analysis / AI** <br/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white"/>
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=NUMPY&logoColor=white"/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=PANDAS&logoColor=white"/>
