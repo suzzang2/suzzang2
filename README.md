@@ -1,7 +1,8 @@
 <div align="center">
   
-  <h1>🦎 우주를 이롭게! 🦎</h1>
-  <br/> 
+  <h1>🌐 BENEFIT THE WORLD! 🌐</h1>
+  <br/>
+
 
 <!-----------------------------------------sns 표------------------------------------------>
 <table>
@@ -57,46 +58,44 @@
 
 <h3>I can use...</h3>
 
-<h3>WEB</h3>
+**WEB** <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black"/>
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TYPESCRIPT&logoColor=white"/>
 <br>
-<h3>Data Analysis / Artificial Intelligence</h3>
+**Data Analysis / Artificial Intelligence** <br/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white"/>
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=NUMPY&logoColor=white"/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=PANDAS&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCIKIT LEARN-013243?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <br>
-<h3>General Languages</h3>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>  
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+**Other Languages** <br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <br>
-<h3>Other Tools</h3>
+**Tools** <br/>
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white"/>
 <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=NOTION&logoColor=white"/>
 <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=SLACK&logoColor=white"/>
 <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=DISCORD&logoColor=white"/>
+<br/>
 
+ 
 <h3>Interested in...</h3>
 
 <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=SWIFT&logoColor=white"/>
-<br><br>
-<img src="https://img.shields.io/badge/NINTENDO 3DS-D12228?style=for-the-badge&logo=NINTENDO 3DS&logoColor=white"/>
-<img src="https://img.shields.io/badge/NINTENDO SWITCH-E60012?style=for-the-badge&logo=NINTENDO SWITCH&logoColor=white"/>
-<img src="https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=STEAM&logoColor=white"/>
-<br><br>
+<img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/NINTENDO-E60012?style=for-the-badge&logo=NINTENDO SWITCH&logoColor=white"/>
 <img src="https://img.shields.io/badge/ADOBE ILLUSTRATOR-FF9A00?style=for-the-badge&logo=ADOBE ILLUSTRATOR&logoColor=white"/>
 <img src="https://img.shields.io/badge/ADOBE PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/ADOBE PREMIER PRO-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<br><br>
-<img src="https://img.shields.io/badge/OPEN AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br/>
+<br/>
+
+![Suzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzzang2&theme=swift&show_icons=true&rank_icon=github)
+
 </div>
-
-  ---
-![Suzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzzang2&show_icons=true&theme=transparent&title_color=A28047&text_color=352E04&icon_color=89877F&bg_color=F1EFE2) ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=suzzang2)
-
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sb3129256)](https://solved.ac/sb3129256)
