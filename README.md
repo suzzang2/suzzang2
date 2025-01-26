@@ -1,10 +1,5 @@
 <div align="center">
   <h1>🦎 Welcome! 🦎</h1>
-  
-<img src='https://github.com/suzzang2/suzzang2/assets/134358849/a0b5e19c-18f6-461f-934a-ba450d91c977' width='200px'>
-
-
-
   About Me...
   ---
   | WHEN | WHAT |
