@@ -52,8 +52,9 @@
 
 |Period|Project|What|Role|etc
 |---|---|---|---|---|
+| 2025.01 - now | <img width="20px" src="https://github.com/user-attachments/assets/6587a6cd-5e0d-4b05-9780-94678d4606d6"> [xx한 일본어](https://github.com/JapaneseAcademy/FrontEnd) | 개인 일본어 학원 사이트 | Front-end | 개인 의뢰 외주 |
 | 2024.10 - 2024.11 | [약속어때](https://github.com/wo0gA/woogafront) | 약속 관리 어플 | UI Develop | '모바일 앱 개발' 과목 프로젝트 |
-| 2024.10 - 2024.11 | <img src='https://github.com/user-attachments/assets/1167c0b9-229b-4590-9406-3da3f9932f16' width='30px'> [눈사람 공작소](https://github.com/wo0gA/woogafront) | 눈사람 커스터마이징 모바일 서비스 | UI Develop | 2024 LIKELION 중커톤 |
+| 2024.10 - 2024.11 | <img src='https://github.com/user-attachments/assets/1167c0b9-229b-4590-9406-3da3f9932f16' width='30px'> [눈사람 공작소](https://github.com/wo0gA/woogafront) | 눈사람 커스터마이징 모바일 서비스 | Front-end | 2024 LIKELION 중커톤 |
 | 2024.07 - 2024.08 |<img src='https://github.com/user-attachments/assets/ed192116-54e5-422a-9ea2-5292f01f2e90' width='30px'> [바로(barrow)지금](https://github.com/wo0gA/woogafront) | 중고 운동용품 대여 플랫폼 | Front-end | 2024 LIKELION Hackathon |
 | 2024.04 - 2024.05 | <img src='https://github.com/user-attachments/assets/34d75681-973d-4fc0-9997-335d4cebaf04' width='40px'> [JJapRa](https://github.com/CAU-SE-12king/JJAPRA_Front) | 이슈 트래킹 시스템 | Front-end| 'Jira'를 참고 |
 
