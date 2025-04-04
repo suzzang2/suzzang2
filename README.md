@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>🌐 BENEFIT THE WORLD! 🌐</h1>
+  <h1>BENEFIT THE WORLD!</h1>
   <br/>
 
 
