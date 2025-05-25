@@ -27,11 +27,11 @@
   | ------------ | ------------- |
   | 2022.03 - now| Business Administration at Chung-Ang University |
   | 2023.03 - now| Computer Science & Engineering at Chung-ang University |
-  | 2022.03 - 2023.02 | General Affairs team of the 11st Student Council of Business Administration CAU |
-  | 2023.03 - 2024.02 | General Affairs team of the 12st Student Council of Business Administration CAU |
-  | 2024.03 - 2025.01| Front-End in [LIKELION-CAU](https://cau-likelion.org/) 12th; Web&App devloping club of CAU |
-  | 2024.03 - 2025.01 | [CUAI](https://www.cuai.kr/) 7th; AI study association of CAU |
-  | 2025.02 - now| Front-End Team Leader in [LIKELION-CAU](https://cau-likelion.org/) 13th; Web&App devloping club of CAU |
+  | 2022.03 - 2023.02 | <img width="30px" alt="image" src="https://github.com/user-attachments/assets/958a9fdb-7684-4d31-a01e-2700db704066" /> General Affairs team of the 11st Student Council of Business Administration CAU |
+  | 2023.03 - 2024.02 | <img width="30px" alt="image" src="https://github.com/user-attachments/assets/958a9fdb-7684-4d31-a01e-2700db704066" /> General Affairs team of the 12st Student Council of Business Administration CAU |
+  | 2024.03 - 2025.01| <img width="30px" alt="image" src="https://github.com/user-attachments/assets/1f2b3d2b-fdc4-42c9-a561-6e1faee52a97" /> Front-End in [LIKELION-CAU](https://cau-likelion.org/) 12th; Web&App devloping club of CAU |
+  | 2024.03 - 2025.01 | <img width="30" alt="CUAI_logo" src="https://github.com/user-attachments/assets/abaf9b89-bb88-47c2-8dc1-e4467b71ffb1" /> [CUAI](https://www.cuai.kr/) 7th; AI study association of CAU |
+  | 2025.02 - now| <img width="30px" alt="image" src="https://github.com/user-attachments/assets/1f2b3d2b-fdc4-42c9-a561-6e1faee52a97" /> Front-End Team Leader in [LIKELION-CAU](https://cau-likelion.org/) 13th; Web&App devloping club of CAU |
 
   <br/>
   
