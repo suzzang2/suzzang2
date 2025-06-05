@@ -12,11 +12,11 @@
         <img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=VELOG&logoColor=white" alt="Velog Badge" />
       </a>
     </td>
-    <td>
+<!--     <td>
       <a href="https://www.instagram.com/forsxygrave">
         <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 <br/>
