@@ -3,7 +3,7 @@
   <h1>BENEFIT THE WORLD!</h1>
   <br/>
 
-**English** | [한국어](./README.ko.md)
+[English](./README.md) | **한국어**
 <br/>
 <br/>
 
@@ -28,16 +28,16 @@
 
   | WHEN | WHAT |
   | ------------ | ------------- |
-  | 2026.02 - 2026.08 | Exchange student at Freie Universität Berlin, Germany (Informatik) |
-  | 2025.07 - 2026.01 | Intern at an SI company, on-site at Seoul City Hall: developed & maintained the "Energy Information Integrated System" website and its DB |
-  | 2025.04 - 2025.08 | Research Assistant at CAU Industry-Academic Cooperation Foundation: built a digital healthcare app (step counter / running) as a solo full-stack developer |
-  | 2025.01 - 2025.12 | <img width="30px" alt="image" src="https://github.com/user-attachments/assets/1f2b3d2b-fdc4-42c9-a561-6e1faee52a97" /> Front-End Team Leader in [LIKELION-CAU](https://cau-likelion.org/) 13th; Web & App developing club of CAU |
-  | 2024.01 - 2024.12 | <img width="30px" alt="image" src="https://github.com/user-attachments/assets/1f2b3d2b-fdc4-42c9-a561-6e1faee52a97" /> Front-End in [LIKELION-CAU](https://cau-likelion.org/) 12th; Web & App developing club of CAU |
-  | 2024.01 - 2024.12 | <img width="30" alt="CUAI_logo" src="https://github.com/user-attachments/assets/abaf9b89-bb88-47c2-8dc1-e4467b71ffb1" /> [CUAI](https://www.cuai.kr/) 7th; AI study association of CAU |
-  | 2023.03 - 2024.02 | <img width="30px" alt="image" src="https://github.com/user-attachments/assets/958a9fdb-7684-4d31-a01e-2700db704066" /> General Affairs team of the 12th Student Council of Business Administration CAU |
-  | 2023.03 - now | Computer Science & Engineering at Chung-Ang University (expected graduation 2027.02) |
-  | 2022.03 - 2023.02 | <img width="30px" alt="image" src="https://github.com/user-attachments/assets/958a9fdb-7684-4d31-a01e-2700db704066" /> General Affairs team of the 11th Student Council of Business Administration CAU |
-  | 2022.03 - now | Business Administration at Chung-Ang University |
+  | 2026.02 - 2026.08 | 독일 베를린 자유대학교(Freie Universität Berlin) 교환학생 (Informatik) |
+  | 2025.07 - 2026.01 | SI 기업 인턴, 서울시청 상주: '에너지정보통합시스템' 누리집 개발 및 DB 관리 |
+  | 2025.04 - 2025.08 | 중앙대 산학협력단 연구보조원: 디지털 헬스케어(만보기/러닝) 앱을 1인 풀스택으로 개발 |
+  | 2025.01 - 2025.12 | <img width="30px" alt="image" src="https://github.com/user-attachments/assets/1f2b3d2b-fdc4-42c9-a561-6e1faee52a97" /> [멋쟁이사자처럼 중앙대](https://cau-likelion.org/) 13기 프론트엔드 파트장 (웹/앱 개발 동아리) |
+  | 2024.01 - 2024.12 | <img width="30px" alt="image" src="https://github.com/user-attachments/assets/1f2b3d2b-fdc4-42c9-a561-6e1faee52a97" /> [멋쟁이사자처럼 중앙대](https://cau-likelion.org/) 12기 프론트엔드 (웹/앱 개발 동아리) |
+  | 2024.01 - 2024.12 | <img width="30" alt="CUAI_logo" src="https://github.com/user-attachments/assets/abaf9b89-bb88-47c2-8dc1-e4467b71ffb1" /> [CUAI](https://www.cuai.kr/) 7기 (중앙대 AI 학회) |
+  | 2023.03 - 2024.02 | <img width="30px" alt="image" src="https://github.com/user-attachments/assets/958a9fdb-7684-4d31-a01e-2700db704066" /> 중앙대 경영학과 제12대 학생회 총무부 |
+  | 2023.03 - now | 중앙대학교 소프트웨어학부 (2027.02 졸업 예정) |
+  | 2022.03 - 2023.02 | <img width="30px" alt="image" src="https://github.com/user-attachments/assets/958a9fdb-7684-4d31-a01e-2700db704066" /> 중앙대 경영학과 제11대 학생회 총무부 |
+  | 2022.03 - now | 중앙대학교 경영학부 |
 
   <br/>
   
@@ -47,12 +47,12 @@
 
 |Period|Project|What|Role|etc
 |---|---|---|---|---|
-| 2025.04 - 2025.08 | Digital Healthcare App | Step counter / running app for weight management of young adults | Planning, Design, Full-stack (React Native, Node.js, Express, AWS) | CAU Industry-Academic Cooperation Foundation, National Research Foundation of Korea project |
-| 2025.02 - 2025.07 | <img width="20px" src="https://github.com/user-attachments/assets/6587a6cd-5e0d-4b05-9780-94678d4606d6"> [예리한 일본어](https://github.com/JapaneseAcademy/FrontEnd) | Personal Japanese academy website (courses, reviews, payments, admin back office) | Front-end Lead, Client Communication, Design | Freelance project, 400+ users, Toss Payments integration |
-| 2024.10 - 2024.11 | 약속어때 | Appointment management app | UI Development | 'Mobile App Development' course project |
-| 2024.10 - 2024.11 | <img src='https://github.com/user-attachments/assets/1167c0b9-229b-4590-9406-3da3f9932f16' width='30px'> 눈사람 공작소 | Snowman customizing mobile service | Front-end | 2024 LIKELION mini hackathon, deployed to a campus community |
-| 2024.07 - 2024.08 |<img src='https://github.com/user-attachments/assets/ed192116-54e5-422a-9ea2-5292f01f2e90' width='30px'> [바로(barrow)지금](https://github.com/wo0gA/woogafront) | Used sports gear rental platform | Front-end | 2024 LIKELION Hackathon |
-| 2024.05 - 2024.06 | 나무늘보 | Medical record analysis & health notifier (OCR) | Front-end, PM | Finalist at the 12th LIKELION National Idea-thon, Honorable Mention at CAU business college startup contest (2024.09) |
+| 2025.04 - 2025.08 | 디지털 헬스케어 앱 | 젊은 성인 비만관리용 만보기/러닝 앱 | 기획, 디자인, 풀스택 (React Native, Node.js, Express, AWS) | 중앙대 산학협력단, 한국연구재단 과제 |
+| 2025.02 - 2025.07 | <img width="20px" src="https://github.com/user-attachments/assets/6587a6cd-5e0d-4b05-9780-94678d4606d6"> [예리한 일본어](https://github.com/JapaneseAcademy/FrontEnd) | 개인 일본어 학원 사이트 (강의 조회/리뷰/결제, 관리자 백오피스) | 프론트엔드 총괄, 고객 소통, 디자인 | 개인 의뢰 외주, 가입자 400명+, Toss Payments 실결제 연동 |
+| 2024.10 - 2024.11 | 약속어때 | 약속 관리 앱 | UI 개발 | '모바일 앱 개발' 과목 프로젝트 |
+| 2024.10 - 2024.11 | <img src='https://github.com/user-attachments/assets/1167c0b9-229b-4590-9406-3da3f9932f16' width='30px'> 눈사람 공작소 | 눈사람 커스터마이징 모바일 서비스 | 프론트엔드 | 2024 멋쟁이사자처럼 중커톤, 교내 커뮤니티 실배포 |
+| 2024.07 - 2024.08 |<img src='https://github.com/user-attachments/assets/ed192116-54e5-422a-9ea2-5292f01f2e90' width='30px'> [바로(barrow)지금](https://github.com/wo0gA/woogafront) | 중고 운동용품 대여 플랫폼 | 프론트엔드 | 2024 멋쟁이사자처럼 해커톤 |
+| 2024.05 - 2024.06 | 나무늘보 | 진료결과지 분석 & 건강 알리미 (OCR) | 프론트엔드, PM | 멋쟁이사자처럼 제12회 전국 연합 아이디어톤 본선 진출, 중앙대 경영경제대학 창업공모전 장려상 (2024.09) |
 
 <br/>
 
@@ -101,10 +101,10 @@
 
 | WHAT | DETAIL |
 | ------------ | ------------- |
-| TOEIC | 945 (2024.12) |
-| OPIc (English) | AL (2026.09) |
-| ADsP (Advisory Data Analytics Professional) | Passed (2025.03) |
-| Languages | Korean (native), English (fluent), Japanese (conversational), German (basic) |
+| TOEIC | 945점 (2024.12) |
+| OPIc (영어) | AL (2026.09) |
+| ADsP (데이터분석준전문가) | 합격 (2025.03) |
+| 언어 | 한국어 (모국어), 영어 (유창), 일본어 (의사소통 가능), 독일어 (기초) |
 
 <br/>
  
